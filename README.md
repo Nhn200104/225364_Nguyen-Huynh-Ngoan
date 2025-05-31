@@ -1,1 +1,1 @@
-# 225364_Nguyen-Huynh-Ngoan
+This repository is used for learning GitHub on web
